@@ -1,0 +1,27 @@
+# General
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# Python venv
+venv/
+.venv/
+
+# Node.js
+node_modules/
+
+# Git
+.git/
+.gitignore
+
+# AppData
+AppData/
+.cache/
+.u2net/
+
+# VSCode config
+.vscode/
+

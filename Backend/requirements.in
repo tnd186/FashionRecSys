@@ -1,0 +1,21 @@
+django
+django-cors-headers
+djongo
+torch
+torchvision
+numpy
+pillow
+transformers
+sentence-transformers @ git+https://github.com/UKPLab/sentence-transformers@eb3d4df8285a4425ad247e4c0503e73c6fe2b601
+huggingface-hub
+peft
+langchain
+chromadb
+rembg
+pytz
+pypdf
+timm
+langchain-chroma
+langchain-community
+langchain-huggingface
+python-decouple
